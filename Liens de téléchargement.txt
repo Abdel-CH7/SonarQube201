@@ -1,0 +1,17 @@
+SonarQube: 
+https://www.sonarsource.com/products/sonarqube/downloads/
+
+Sonar-scanner:
+https://docs.sonarsource.com/sonarqube-server/latest/analyzing-source-code/scanners/sonarscanner/
+
+Java 17:
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+PostgreSQL:
+https://www.postgresql.org/download/
+
+Xdebug:
+https://xdebug.org/download
+
+Composer:
+https://getcomposer.org/download/
